@@ -10,7 +10,8 @@ import Rooms from './screens/Rooms.jsx';
 import Review from './screens/Review.jsx';
 import Payment from './screens/Payment.jsx';
 import Confirmed from './screens/Confirmed.jsx';
-import { Wishlist, Compare } from './screens/Wishlist.jsx';
+import { Wishlist } from './screens/Wishlist.jsx';
+import Compare from './screens/Compare.jsx';
 import Profile, { ProfileDetail } from './screens/Profile.jsx';
 
 const SCREENS = { home: Home, where: Where, when: When, who: Who, results: Results, filters: Filters, details: Details, rooms: Rooms, review: Review, payment: Payment, confirmed: Confirmed, wishlist: Wishlist, compare: Compare, profile: Profile, profileDetail: ProfileDetail };
